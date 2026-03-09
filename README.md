@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋 I'm Vikesh Kumar
 
-<!--
-**vik1ash/vik1ash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+📊 Data Science & Data Analytics Enthusiast  
+💻 Part-time Software Developer  
 
-Here are some ideas to get you started:
+I enjoy working with data to find insights and also building software solutions that solve real world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+**Programming**
+- Python
+- Java
+
+**Data Science & Analytics**
+- Pandas
+- NumPy
+- Data Visualization
+- Machine Learning (Basics)
+
+**Backend Development**
+- Spring Boot
+- REST APIs
+- Maven
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 📂 Projects
+
+🔹 **Bank Management System**  
+Python application for managing bank accounts and transactions.
+
+🔹 **Students managements System**  
+Python application for managing Students and their records.
+
+---
+
+## 📊 Interests
+- Data Analysis
+- Machine Learning
+- Backend Development
+- Problem Solving
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/vik1ash
+- LinkedIn: https://www.linkedin.com/in/vikesh-kumar-309274330?utm_source=share_via&utm_content=profile&utm_medium=member_android
